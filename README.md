@@ -1,10 +1,7 @@
 # The Band
 
 ### Introduction
-Đây là Website về một ban nhạc học cách sử dụng HTML/CSS, JS 
-
-### Install
-Dowload and use vscode is open
+Website về ban nhạc 
 
 ### Technologies Used 
 HTML/CSS, JS
